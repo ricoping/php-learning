@@ -61,7 +61,3 @@ $smarty->display('index.tpl');
 
 
 
-
-
-
-
