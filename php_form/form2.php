@@ -70,11 +70,3 @@ $token = htmlspecialchars($_SESSION['token'], ENT_QUOTES);
 </body>
 </html>
 
-
-
-
-
-
-
-
-
