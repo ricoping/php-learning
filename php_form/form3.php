@@ -68,9 +68,3 @@ if(isset($_SESSION, $_POST) && ($_POST["token"] === $_SESSION["token"])){
 
 
 
-
-
-
-
-
-
